@@ -12,9 +12,6 @@ func feat1() {
 	fmt.Println("In feat1")
 }
 
-
 func feat2() {
 	fmt.Println("In feat2")
-	feat1()
 }
-
